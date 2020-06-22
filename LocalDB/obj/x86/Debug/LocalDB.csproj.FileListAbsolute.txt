@@ -1,0 +1,4 @@
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\LocalDB\bin\Debug\LocalDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\LocalDB\bin\Debug\LocalDB.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\LocalDB\obj\x86\Debug\LocalDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\LocalDB\obj\x86\Debug\LocalDB.pdb

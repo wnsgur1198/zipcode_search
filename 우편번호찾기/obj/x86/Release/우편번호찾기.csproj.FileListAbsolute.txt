@@ -1,0 +1,7 @@
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\우편번호찾기\bin\Release\우편번호찾기.exe
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\우편번호찾기\bin\Release\우편번호찾기.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\우편번호찾기\bin\Release\LocalDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\우편번호찾기\bin\Release\LocalDB.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\우편번호찾기\obj\x86\Release\우편번호찾기.csprojResolveAssemblyReference.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\우편번호찾기\obj\x86\Release\우편번호찾기.exe
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\우편번호찾기\obj\x86\Release\우편번호찾기.pdb

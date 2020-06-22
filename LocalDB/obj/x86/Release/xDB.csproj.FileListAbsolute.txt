@@ -1,0 +1,9 @@
+C:\Users\pjkim\Desktop\코딩아카데미\xDB\bin\Release\xDB.dll
+C:\Users\pjkim\Desktop\코딩아카데미\xDB\bin\Release\xDB.pdb
+C:\Users\pjkim\Desktop\코딩아카데미\xDB\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\pjkim\Desktop\코딩아카데미\xDB\obj\x86\Release\xDB.dll
+C:\Users\pjkim\Desktop\코딩아카데미\xDB\obj\x86\Release\xDB.pdb
+D:\pjkim\Backup-0\1강의\코딩아카데미\xDB\bin\Release\xDB.dll
+D:\pjkim\Backup-0\1강의\코딩아카데미\xDB\bin\Release\xDB.pdb
+D:\pjkim\Backup-0\1강의\코딩아카데미\xDB\obj\x86\Release\xDB.dll
+D:\pjkim\Backup-0\1강의\코딩아카데미\xDB\obj\x86\Release\xDB.pdb
